@@ -1,4 +1,5 @@
 import telegram
+import os
 from telegram.ext import Updater
 from requests import get
 from time import sleep
