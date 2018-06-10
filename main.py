@@ -32,5 +32,5 @@ while True:
             bot.send_message(
                 chat_id=mem,
                 text='Что-то изменилось')
-    sleep(300)
+    sleep(60)
     
